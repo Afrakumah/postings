@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "first post",
+      "summary": "cats are fats i llike to pet"
+    },
+    {
+      "id": 2,
+      "title": "second post",
+      "summary": "cats are fats i llike to pet"
+    },
+    {
+      "title": "church",
+      "summary": "going to church",
+      "id": 4
+    },
+    {
+      "title": "studies",
+      "summary": "we are studing \n",
+      "id": 6
+    },
+    {
+      "title": "assignment",
+      "summary": "no assignment today\n",
+      "id": 7
+    }
+  ]
+}

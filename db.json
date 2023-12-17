@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "title": "food",
+      "summary": "anything solid or liquid taken for growth and nutrients\n",
+      "id": 1
+    },
+    {
+      "title": "water",
+      "summary": "water is a colorless liquid",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

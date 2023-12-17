@@ -1,0 +1,23 @@
+.input {
+    width: 100%
+}
+
+.cancel_btn {
+    border: none;
+    padding: .3rem .5rem;
+    background-color: gray;
+    border-radius: .3rem;
+}
+
+.add_btn {
+    border: none;
+    padding: .3rem .5rem;
+    background-color:purple ;
+    border-radius: .3rem;
+}
+
+.btns {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: flex-end;
+}

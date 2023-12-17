@@ -1,0 +1,34 @@
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid wheat;
+
+  }
+  
+  .header span {
+    font-size: 1.5rem;
+    font-weight: 500;
+  }
+  
+  .navs{
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+    
+  }
+  
+  /* .navs a{
+    text-decoration: none;
+    color: #fff
+  } */
+  
+  .navs a {
+    padding: 0.3rem 0.5rem;
+    border: none;
+    border-radius: 3px;
+    background-color: blueviolet;
+    text-decoration: none;
+    color: #fff
+
+  }
